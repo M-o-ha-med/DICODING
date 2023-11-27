@@ -1,10 +1,14 @@
 # DICODING BIKE SHARING ANALYSIS DASHBOARD
 
-## LIBRARY
-seaborn
-matplotlib
-streamlit
+## SETUP ENVIRONMENT AND LIBRARY
+```
+conda create --name main-ds python=3.10
+conda activate main-ds
+pip install numpy pandas  matplotlib seaborn  streamlit 
+```
 
-## run streamlit local
+## run streamlit web app
+```
 streamlit run dashboard.py
+```
 
