@@ -16,7 +16,7 @@ st.text("""oleh Mohamed""")
 
 st.header("""Cuaca dan keadaan cuaca""")
 fig , axis  = plt.subplots(nrows = 1 , ncols  = 2 , figsize = (20 , 8))
-data_hour = pd.read_csv("https://raw.githubusercontent.com/M-o-ha-med/DICODING/main/Data/hour.csv")
+data_hour = pd.read_csv("https://raw.githubusercontent.com/M-o-ha-med/DICODING/main/hour.csv")
 sns.barplot(x = data_hour.season , y = data_hour.cnt , ax = axis[0] )
 sns.barplot(x = data_hour.weathersit, y = data_hour.cnt , ax = axis[1] )
 axis[0].set_xlabel("Musim" , fontsize = (20))
