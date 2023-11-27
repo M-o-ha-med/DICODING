@@ -16,4 +16,7 @@ untuk menentukan golongan manakah yang paling banyak meminjam sepeda.\
 
 Link Dashboard : [klik disini][https://dicoding-d1-d2.streamlit.app/]
 
+# screenshoot
+![ss_dashboard](https://github.com/M-o-ha-med/DICODING/assets/120997421/8ecc7104-45f0-47ef-a663-895c6e6dab13)
+
 
