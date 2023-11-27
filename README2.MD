@@ -1,0 +1,7 @@
+### DICODING BIKE SHARING ANALYSIS DASHBOARD
+
+#LIBRARY
+seaborn
+matplotlib
+streamlit
+
