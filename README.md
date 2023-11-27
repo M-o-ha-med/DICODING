@@ -14,6 +14,6 @@ selain itu juga , terdapat perbandingan mengenai jumlah sewa sepeda pada kategor
 untuk menentukan golongan manakah yang paling banyak meminjam sepeda.\
 
 
-Link Dashboard : [klik disini][https://dicoding-da-mohamed.streamlit.app/]
+Link Dashboard : [klik disini][https://dicoding-d1-d2.streamlit.app/]
 
 
