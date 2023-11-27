@@ -11,6 +11,9 @@ sewa sepeda secara keseluruhan
 3. waktu sewa sepeda.
 
 selain itu juga , terdapat perbandingan mengenai jumlah sewa sepeda pada kategori casual dan registered
-untuk menentukan golongan manakah yang paling banyak meminjam sepeda.
+untuk menentukan golongan manakah yang paling banyak meminjam sepeda.\
+
+
+Link Dashboard : [klik disini][https://dicoding-da-mohamed.streamlit.app/]
 
 
